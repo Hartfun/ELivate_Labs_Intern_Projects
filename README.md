@@ -8,11 +8,12 @@ I created below interactive dashboard as per perticular featurs
 Now, you could switch and view different shipping stats for different months and years.
 
 Project 2 (Sales Analysis)
-Overview
-A Tableau dashboard for analyzing sales performance during the years 2020 to 2024. It features yearly comparisons, customer statistics, profit and sales subcategory breakouts, and trend views. It is equipped with filters that let users examine data by year, product category, and location on an interactive basis.
+Project Overview: UT Discount Mart Dashboard
+This project involves building an interactive dashboard to provide insights into the performance of UT Discount Mart, a small supermarket. The dashboard is designed to track key business metrics such as Sales, Profit, and Quantity Sold for the current year.
 
-Year-over-Year Comparison Between 2020 and 2023: Visualizes Current Year performance metrics against Pervious Year, highlighting key changes in total sales, profit, quantity sold, and customer engagement.
-Customer Analysis: Includes metrics such as total customers, sales per customer, and order distribution to identify best performing clients and areas that need improvement.
-Profit and Sales Breakdown: Detailed analysis by subcategories showing profit trends in the various product lines.
-Trend Visualization: Tracks sales and profit trends over time enabling one to see patterns as well as uncovering anomalies during the course of year.
-Interactive Filters: Users can filter data by year, product categories, and locations to focus on specific areas of interest.
+The dashboard also provides analytical breakdowns by Product Category and Region, helping to identify trends and high-performing segments.
+
+Additional insights include:
+Verification of customer purchasing behavior, particularly the assumption that customers typically buy two or more products per order.
+Profit calculations based on the assumption that profit constitutes 30% of the selling price.
+The dashboard includes filtering capabilities that allow users to view shipping statistics across different months and years, enabling more detailed time-based analysis.
