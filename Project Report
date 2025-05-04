@@ -1,0 +1,56 @@
+Report
+Project 1: Retail Business Performance & Profitability Analysiscorresponds toUT Discount Mart
+Project 2: Financial KPI Analysis for a Startup
+
+Dashboard Projects Report
+Retail Business Performance & Financial KPI Analysis
+Introduction
+This report outlines two business intelligence projects focused on creating interactive Tableau dashboards to assist stakeholders in understanding and improving their business operations. The first project focuses on the retail sector, analyzing store-level performance, while the second centers around financial health monitoring for an early-stage startup.
+Both dashboards were designed to provide real-time insights into key metrics such as sales, profit, inventory turnover, customer behavior, and financial KPIs like CAC, LTV, burn rate, and revenue trends.
+
+Abstract
+1.Retail Business Performance & Profitability Analysis
+  This project involved analyzing retail transactional data from UT Discount Mart to uncover profit-draining categories, optimize inventory turnover, and study seasonal product behavior. The dashboard enabled dynamic filtering by month and year and provided breakdowns by category and region. An important assumption—that customers purchase two or more products per transaction—was validated using order-level data. Profit was estimated at 30% of the selling price.
+
+2.Financial KPI Analysis for a Startup
+  The goal of this project was to assess the financial sustainability of a startup by analyzing monthly revenue, customer acquisition cost (CAC), lifetime value (LTV), burn rate, and runway. The dashboard incorporated cohort analysis (monthly customer groups), LTV\:CAC ratio evaluation, and trend indicators for revenue performance. This allowed stakeholders to monitor key startup KPIs over time and adjust strategies accordingly.
+
+Tools Used
+Tableau– Dashboard creation and interactive visualizations of the data
+
+Steps Involved in Building the Projects
+Retail Dashboard (UT Discount Mart)
+1.Data Collection & Cleaning
+  CSV files from online sources of data
+  Cleaned and formatted using Excel
+
+2. Feature Engineering
+  Created derived columns such as Profit (30% of Sales), Basket Size per order
+  Grouped data by Month, Region, Category
+
+3.Analysis
+  Verified sales and total quantit sold per region
+  identifies the quantity of orders per region
+  Identified best and worst-performing categories and regional patterns
+
+4.Dashboard Development
+  KPIs: Total count of orders, Quantity Sold, orders not sold
+  Filters: Month, Year, Region, Category
+  Visuals: Line charts, bar graphs, world map clusters
+
+Financial KPI Dashboard
+1.Data Collection
+  Compiled monthly shipment data
+
+2.Dashboard Development in Tableau
+
+  KPIs: Sales, quantity, months
+  Visuals: Trend lines, world map chart, bar chart
+  Filters: Time period, sales catagories
+
+Conclusion
+Both projects effectively use Tableau dashboards to deliver critical business insights:
+UT Discount Mart’s dashboard supports operational improvements by highlighting seasonal trends, profit, and sales behavior over the country.
+The Startup KPI Dashboard*provides a structured view of financial health,and efficiency of marketing spend.
+
+These dashboards empower decision-makers to act on data with confidence, improve performance, and adapt strategies in both retail and startup environments.
